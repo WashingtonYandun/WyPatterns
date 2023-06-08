@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyPatterns", "WyPatterns.csproj", "{CCF966DC-665D-475C-85F2-C91731917F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF966DC-665D-475C-85F2-C91731917F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF966DC-665D-475C-85F2-C91731917F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF966DC-665D-475C-85F2-C91731917F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF966DC-665D-475C-85F2-C91731917F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E16245-2985-4DCF-B731-60D8385284E5}
+	EndGlobalSection
+EndGlobal
